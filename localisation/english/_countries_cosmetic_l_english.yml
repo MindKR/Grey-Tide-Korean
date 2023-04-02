@@ -1,14 +1,10 @@
 ﻿l_english:
  OVERLORD_SUBJECT:0 "$OVERLORDADJ$령 $NONIDEOLOGY$"
-
  RAJ_UK:0 "영국령 인도제국"
-
  INS_HOL:0 "네덜란드령 동인도"
  INS_HOL_DEF:0 "네덜란드령 동인도"
-
  JAP_USA_GT_military_government:0 "연합군 점령 일본"
  JAP_USA_GT_military_government_DEF:0 "연합군 점령 일본"
-
  GER_republic_social_democrat:0 "독일 연방공화국"
  GER_republic_social_democrat_DEF:0 "독일 연방공화국"
  GER_republic_liberal:0 "독일 연방공화국"
@@ -26,25 +22,18 @@
  GER_republic:0 "독일"
  GER_republic_DEF:0 "독일"
  GER_republic_ADJ:0 "독일"
-
  WAF_subject:0 "$OVERLORDADJ$령 서아프리카"
  WAF_subject_DEF:0 "$OVERLORDADJ$령 서아프리카"
-
  EAF_subject:0 "$OVERLORDADJ$령 적도아프리카"
  EAF_subject_DEF:0 "$OVERLORDADJ$령 적도아프리카"
-
  TUN_subject:0 "$OVERLORDADJ$령 튀니지"
  TUN_subject_DEF:0 "$OVERLORDADJ$령 튀니지"
-
  DJI_FRA_subject:0 "프랑스령 소말릴란드"
  DJI_FRA_subject_DEF:0 "프랑스령 소말릴란드"
-
  MAD_subject:0 "$OVERLORDADJ$령 마다가스카르"
-
  KUW_UK:0 "쿠웨이트"
  KUW_UK_DEF:0 "쿠웨이트 셰흐국"
-
  EGY_UK:0 "이집트 왕국"
  EGY_UK_DEF:0 "이집트 왕국"
-
  NFL_UK_DEF:0 "뉴펀들랜드"
+ GDC_GXC:0 "광동성"

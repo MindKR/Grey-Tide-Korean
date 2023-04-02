@@ -1,6 +1,5 @@
 ﻿l_english:
  SWI_social_democrat:0 "스위스"
-
  FRA_social_democrat:0 "프랑스 공화국"
  FRA_social_democrat_DEF:0 "프랑스 공화국"
  FRA_liberal:0 "프랑스 공화국"
@@ -10,7 +9,6 @@
  FRA:0 "프랑스"
  FRA_DEF:0 "프랑스"
  FRA_ADJ:0 "프랑스"
-
  ITA_social_democrat:0 "이탈리아 왕국"
  ITA_social_democrat_DEF:0 "이탈리아 왕국"
  ITA_liberal:0 "이탈리아 왕국"
@@ -24,46 +22,36 @@
  ITA:0 "이탈리아"
  ITA_DEF:0 "이탈리아"
  ITA_ADJ:0 "이탈리아"
-
  LIT:0 "리투아니아"
  LIT_DEF:0 "리투아니아"
  LIT_ADJ:0 "리투아니아"
-
  AUS:0 "오스트리아"
  AUS_DEF:0 "오스트리아"
  AUS_ADJ:0 "오스트리아"
-
  CRO:0 "크로아티아"
  CRO_DEF:0 "크로아티아"
  CRO_ADJ:0 "크로아티아"
-
  BLR:0 "벨라루스"
  BLR_DEF:0 "벨라루스"
  BLR_ADJ:0 "벨라루스"
  UKR:0 "우크라이나"
  UKR_DEF:0 "우크라이나"
  UKR_ADJ:0 "우크라이나"
-
  USA_liberal:0 "미합중국"
  USA_liberal_DEF:0 "미합중국"
  USA_conservative:0 "미합중국"
  USA_conservative_DEF:0 "미합중국"
-
  CZE:0 "체코슬로바키아"
  CZE_DEF:0 "체코슬로바키아"
  CZE_ADJ:0 "체코슬로바키아"
-
  SLO:0 "슬로바키아"
  SLO_DEF:0 "슬로바키아"
  SLO_ADJ:0 "슬로바키아"
-
  SAX:0 "작센"
  SAX_DEF:0 "작센"
-
  JAP:0 "일본"
  JAP_DEF:0 "일본"
  JAP_ADJ:0 "일본"
-
  CHI_social_democrat:0 "중화민국"
  CHI_social_democrat_DEF:0 "중화민국"
  CHI_liberal:0 "중화민국"
@@ -83,7 +71,6 @@
  CHI:0 "중화민국"
  CHI_DEF:0 "중국"
  CHI_ADJ:0 "중국"
-
  PRC_social_democrat:0 "중국 공산당"
  PRC_social_democrat_DEF:0 "중국 공산당"
  PRC_liberal:0 "중국 공산당"
@@ -101,29 +88,26 @@
  PRC:0 "중국 공산당"
  PRC_DEF:0 "중국 공산당"
  PRC_ADJ:0 "중국 공산당"
-
  ETR:0 "동튀르키스탄"
  ETR_DEF:0 "동튀르키스탄"
  ETR_ADJ:0 "동튀르키스탄"
-
- SHX_social_democrat:0 "섬서군벌"
- SHX_social_democrat_DEF:0 "섬서군벌"
- SHX_liberal:0 "섬서군벌"
- SHX_liberal_DEF:0 "섬서군벌"
- SHX_conservative:0 "섬서군벌"
- SHX_conservative_DEF:0 "섬서군벌"
- SHX_libertarian_socialist:0 "섬서인민공화국"
- SHX_libertarian_socialist_DEF:0 "섬서인민공화국"
- SHX_authoritarian_socialist:0 "섬서인민공화국"
- SHX_authoritarian_socialist_DEF:0 "섬서인민공화국"
- SHX_despot:0 "섬서군벌"
- SHX_despot_DEF:0 "섬서군벌"
- SHX_national_populist:0 "섬서군벌"
- SHX_national_populist_DEF:0 "섬서군벌"
- SHX:0 "섬서"
- SHX_DEF:0 "섬서"
- SHX_ADJ:0 "섬서"
-
+ SHX_social_democrat:0 "산서군벌"
+ SHX_social_democrat_DEF:0 "산서군벌"
+ SHX_liberal:0 "산서군벌"
+ SHX_liberal_DEF:0 "산서군벌"
+ SHX_conservative:0 "산서군벌"
+ SHX_conservative_DEF:0 "산서군벌"
+ SHX_libertarian_socialist:0 "산서인민공화국"
+ SHX_libertarian_socialist_DEF:0 "산서인민공화국"
+ SHX_authoritarian_socialist:0 "산서인민공화국"
+ SHX_authoritarian_socialist_DEF:0 "산서인민공화국"
+ SHX_despot:0 "산서군벌"
+ SHX_despot_DEF:0 "산서군벌"
+ SHX_national_populist:0 "산서군벌"
+ SHX_national_populist_DEF:0 "산서군벌"
+ SHX:0 "산서"
+ SHX_DEF:0 "산서"
+ SHX_ADJ:0 "산서"
  TMC_social_democrat:0 "청해 마가군벌"
  TMC_social_democrat_DEF:0 "청해 마가군벌"
  TMC_liberal:0 "청해 마가군벌"
@@ -141,7 +125,6 @@
  TMC:0 "청해 마가군벌"
  TMC_DEF:0 "청해 마가군벌"
  TMC_ADJ:0 "청해 마가군벌"
-
  NMC_social_democrat:0 "영하 마가군벌"
  NMC_social_democrat_DEF:0 "영하 마가군벌"
  NMC_liberal:0 "영하 마가군벌"
@@ -159,7 +142,6 @@
  NMC:0 "영하 마가군벌"
  NMC_DEF:0 "영하 마가군벌"
  NMC_ADJ:0 "영하 마가군벌"
-
  XKC_social_democrat:0 "서강군벌"
  XKC_social_democrat_DEF:0 "서강군벌"
  XKC_liberal:0 "서강군벌"
@@ -177,7 +159,22 @@
  XKC:0 "서강군벌"
  XKC_DEF:0 "서강군벌"
  XKC_ADJ:0 "서강군벌"
-
+ GDC_social_democrat:0 "광동군벌"
+ GDC_social_democrat_DEF:0 "광동군벌"
+ GDC_liberal:0 "광동군벌"
+ GDC_liberal_DEF:0 "광동군벌"
+ GDC_conservative:0 "광동군벌"
+ GDC_conservative_DEF:0 "광동군벌"
+ GDC_libertarian_socialist:0 "광동인민공화국"
+ GDC_libertarian_socialist_DEF:0 "광동인민공화국"
+ GDC_authoritarian_socialist:0 "광동인민공화국"
+ GDC_authoritarian_socialist_DEF:0 "광동인민공화국"
+ GDC_despot:0 "광동군벌"
+ GDC_despot_DEF:0 "광동군벌"
+ GDC_national_populist:0 "광동군벌"
+ GDC_national_populist_DEF:0 "광동군벌"
+ GDC:0 "광동"
+ GDC_DEF:0 "광동"
  GXC_social_democrat:0 "광서군벌"
  GXC_social_democrat_DEF:0 "광서군벌"
  GXC_liberal:0 "광서군벌"
@@ -194,8 +191,6 @@
  GXC_national_populist_DEF:0 "광서군벌"
  GXC:0 "광서"
  GXC_DEF:0 "광서"
- GXC_ADJ:0 "광서"
-
  YUN_social_democrat:0 "운남군벌"
  YUN_social_democrat_DEF:0 "운남군벌"
  YUN_liberal:0 "운남군벌"
@@ -213,7 +208,6 @@
  YUN:0 "운남"
  YUN_DEF:0 "운남"
  YUN_ADJ:0 "운남"
-
  MON_social_democrat:0 "몽골"
  MON_social_democrat_DEF:0 "몽골"
  MON_liberal:0 "몽골"
@@ -231,7 +225,6 @@
  MON:0 "몽골"
  MON_DEF:0 "몽골"
  MON_ADJ:0 "몽골"
-
  TUR_social_democrat:0 "튀르키예 공화국"
  TUR_social_democrat_DEF:0 "튀르키예 공화국"
  TUR_liberal:0 "튀르키예 공화국"
@@ -247,7 +240,6 @@
  TUR:0 "튀르키예"
  TUR_DEF:0 "튀르키예"
  TUR_ADJ:0 "튀르키예"
-
  SAU_social_democrat:0 "사우디아라비아"
  SAU_social_democrat_DEF:0 "사우디아라비아"
  SAU_liberal:0 "사우디아라비아"
@@ -261,10 +253,8 @@
  SAU:0 "사우디"
  SAU_DEF:0 "사우디"
  SAU_ADJ:0 "사우디"
-
  MNT:1 "몬테네그로"
  MNT_DEF:1 "몬테네그로"
-
  GEO_social_democrat:0 "조지아"
  GEO_social_democrat_DEF:0 "조지아"
  GEO_liberal:0 "조지아"
@@ -282,7 +272,6 @@
  GEO:0 "조지아"
  GEO_DEF:0 "조지아"
  GEO_ADJ:0 "조지아"
-
  AZR_social_democrat:0 "아제르바이잔"
  AZR_social_democrat_DEF:0 "아제르바이잔"
  AZR_liberal:0 "아제르바이잔"
@@ -300,7 +289,6 @@
  AZR:0 "아제르바이잔"
  AZR_DEF:0 "아제르바이잔"
  AZR_ADJ:0 "아제르바이잔"
-
  ARM_social_democrat:0 "아르메니아"
  ARM_social_democrat_DEF:0 "아르메니아"
  ARM_liberal:0 "아르메니아"
@@ -318,7 +306,6 @@
  ARM:0 "아르메니아"
  ARM_DEF:0 "아르메니아"
  ARM_ADJ:0 "아르메니아"
-
  WAF_social_democrat:0 "서아프리카 연방"
  WAF_social_democrat_DEF:0 "서아프리카 연방"
  WAF_liberal:0 "서아프리카 연방"
@@ -336,7 +323,6 @@
  WAF:0 "서아프리카"
  WAF_DEF:0 "서아프리카"
  WAF_ADJ:0 "서아프리카"
-
  EAF_social_democrat:0 "적도아프리카 연방"
  EAF_social_democrat_DEF:0 "적도아프리카 연방"
  EAF_liberal:0 "적도아프리카 연방"
@@ -354,7 +340,6 @@
  EAF:0 "적도아프리카"
  EAF_DEF:0 "적도아프리카"
  EAF_ADJ:0 "적도아프리카"
-
  VIN_social_democrat:0 "베트남"
  VIN_social_democrat_DEF:0 "베트남"
  VIN_liberal:0 "베트남"
@@ -372,11 +357,9 @@
  VIN:0 "대남"
  VIN_DEF:0 "대남"
  VIN_ADJ:0 "대남"
- 
  AST:0 "오스트레일리아"
  AST_DEF:0 "오스트레일리아"
  AST_ADJ:0 "오스트레일리아"
-
  SPA:0 "스페인"
  SPA_DEF:0 "스페인"
  SPA_ADJ:0 "스페인"
@@ -384,7 +367,6 @@
  SPA_despot_DEF:0 "스페인 왕국"
  SPA_fascist:0 "스페인국"
  SPA_fascist_DEF:0 "스페인국"
-
  PER_social_democrat:0 "이란"
  PER_social_democrat_DEF:0 "이란"
  PER_liberal:0 "이란"
@@ -402,7 +384,6 @@
  PER:0 "이란"
  PER_DEF:0 "이란"
  PER_ADJ:0 "이란"
-
  NFL:0 "뉴펀들랜드"
  NFL_DEF:0 "뉴펀들랜드"
  NFL_ADJ:0 "뉴펀들랜드"

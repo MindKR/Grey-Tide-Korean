@@ -4,7 +4,6 @@
  MAPMODE_GT_CULTURE_MAP_MODE_DESCRIPTION:0 "각 주별로 거주하는 인구의 주 문화를 보여줍니다."
  GT_culture_map_mode_tooltip:0 "§H[FROM.GetNationality]§!"
  GT_culture_map_mode_tooltip_delayed:0 "§F(§Y[FROM.Controller.GetNameWithFlag]§!): [FROM.GetName]은(는) 다수의 '§Y[FROM.GetNationality]§!'로 이루어져있습니다.§!"
-
  nationality.1:0 "북독일계"
  nationality.1-1:0 "남독일계"
  nationality.1-2:0 "§!독일화의 성공적 결과로 형성된 §H독일-폴란드 문화§F"
@@ -29,7 +28,6 @@
  nationality.5:0 "알바니아계"
  nationality.6:0 "그리스계"
  nationality.7:0 "불가리아계"
- nationality.7-1:0 "그리스-불가리아 문화"
  nationality.8:0 "루마니아계"
  nationality.8-1:0 "트란실바니아계"
  nationality.9:0 "#"
